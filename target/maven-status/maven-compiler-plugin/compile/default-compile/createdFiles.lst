@@ -1,0 +1,3 @@
+com\isimtl\students\controller\StudentController.class
+com\isimtl\students\models\Student.class
+com\isimtl\students\services\StudentService.class
